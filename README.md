@@ -1,2 +1,2 @@
 # DataScience
-Projetos sobre ciência de dados e Inteligência Artificial
+Projetos sobre ciências de dados e Inteligência Artificial
